@@ -16,7 +16,7 @@ const USER_CONFIG = {
   PROVINCE: 'HuNan',
   CITY: 'Changsha',
 
-  USERS: [Bruce-KKK]
+  USERS: [
     {
       // 想要发送的人的名字
       name: '宝贝',
